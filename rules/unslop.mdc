@@ -1,0 +1,10 @@
+---
+description: Always-on unslop filter for everyday prose. Routes /slopify, /kiss, and /next-action.
+alwaysApply: true
+---
+
+- Apply unslop to every prose surface, including replies. Write clean as you draft.
+- If you have not read skills/unslop/SKILL.md this session, read it before writing prose.
+- Do not run slopify on ordinary replies. Use slopify only for /slopify or long-form audit, rewrite, voice match, or generate of docs, decks, pages, emails.
+- Use kiss when the user invokes /kiss or asks to keep it simple.
+- Use next-action when the user invokes /next-action. Stay in that output shape until they say "stop next-action" or "normal mode".

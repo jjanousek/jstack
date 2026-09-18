@@ -1,0 +1,7 @@
+interface:
+  display_name: "Slopify"
+  short_description: "Remove AI slop or match a supplied voice"
+  icon_small: "./assets/slopify-logo.png"
+  icon_large: "./assets/slopify-logo.png"
+  brand_color: "#BDF400"
+  default_prompt: "Use $slopify to remove AI slop from this text while preserving its meaning."
