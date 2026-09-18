@@ -24,15 +24,3 @@ Writing skills for Cursor. Unslop is always on. The other three run on request.
 Use slopify on docs, decks, pages, and emails. Not on ordinary chat replies. Standalone skill: [jjanousek/slopify](https://github.com/jjanousek/slopify). jstack vendors it unchanged.
 
 Turn off next-action with `stop next-action` or `normal mode`.
-
-## Credits
-
-Sources and licenses are in [NOTICE](NOTICE).
-
-- unslop and kiss from [pstack](https://github.com/cursor/plugins/tree/main/pstack) by Lauren Tan
-- next-action from [ayghri/i-have-adhd](https://github.com/ayghri/i-have-adhd) by Ayoub Ghriss
-- slopify from [jjanousek/slopify](https://github.com/jjanousek/slopify)
-
-## License
-
-[MIT](LICENSE)
