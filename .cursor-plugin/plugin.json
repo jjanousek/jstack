@@ -1,0 +1,23 @@
+{
+  "name": "jstack",
+  "displayName": "jstack",
+  "version": "0.1.0",
+  "description": "Writing skills for Cursor: always-on unslop, plus on-request slopify, kiss, and next-action.",
+  "author": {
+    "name": "Johannes Janousek"
+  },
+  "homepage": "https://github.com/jjanousek/jstack",
+  "repository": "https://github.com/jjanousek/jstack",
+  "license": "MIT",
+  "logo": "assets/logo.png",
+  "keywords": [
+    "jstack",
+    "unslop",
+    "slopify",
+    "kiss",
+    "next-action",
+    "writing"
+  ],
+  "skills": "./skills/",
+  "rules": "./rules/"
+}
